@@ -1,0 +1,6 @@
+.postgres/
+.pgadmin/
+.http/
+node_modules/
+
+.env
